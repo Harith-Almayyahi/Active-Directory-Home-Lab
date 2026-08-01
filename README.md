@@ -49,7 +49,17 @@ The lab was created to practice common IT Help Desk and System Administration ta
 
 ## Screenshots
 
-Project screenshots are included in this repository.
+### Active Directory Organizational Units
+
+### Active Directory Users
+
+### IT Security Group
+
+### User Group Membership
+
+### DNS Manager
+
+### DNS Forward Lookup Zones
 
 ---
 
