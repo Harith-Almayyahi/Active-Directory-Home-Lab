@@ -56,8 +56,9 @@ The lab was created to practice common IT Help Desk and System Administration ta
 ### IT Security Group
 
 ### User Group Membership
-
+Markdown
 ### DNS Manager
+![DNS Manager](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1-D321-411B-A408-12522C67B170.jpeg)
 
 ### DNS Forward Lookup Zones
 
