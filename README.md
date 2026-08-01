@@ -50,13 +50,14 @@ The lab was created to practice common IT Help Desk and System Administration ta
 ## Screenshots
 
 ### Active Directory Organizational Units
-
+Markdown
 ### Active Directory Users
 ! [Active Directory Usres](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/EE1537C9-4233-429F-9E68-A80646828D8D.jpeg)
 
 ### IT Security Group
-
+Markdown
 ### User Group Membership
+![User Group Membership](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/CD405586-5D0D-4E96-8C25-FF6017CCD257.jpeg)
 Markdown
 ### DNS Manager
 ![DNS Manager](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1-D321-411B-A408-12522C67B170.jpeg)
