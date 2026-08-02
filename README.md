@@ -47,39 +47,54 @@ The lab was created to practice common IT Help Desk and System Administration ta
 
 ---
 
+
 ## Screenshots
 
 ### Active Directory Organizational Units
 
-https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/7C23CEC5-9D45-4FFC-9B80-F30C2F8469E1.jpeg
+Created Organizational Units to organize departments and resources, including IT, HR, Finance, Help Desk, Network, Servers, and Workstations.
+
+![Active Directory Organizational Units](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/7C23CEC5-9D45-4FFC-9B80-F30C2F8469E1.jpeg?raw=true)
+
 ---
 
 ### Active Directory Users
 
-https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/EE1537C9-4233-429F-9E68-A80646828D8D.jpeg
+Created and managed user accounts inside Active Directory.
+
+![Active Directory Users](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/EE1537C9-4233-429F-9E68-A80646828D8D.jpeg?raw=true)
 
 ---
 
 ### Department Users
-https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1-D321-411B-A408-12522C67B170.jpeg
+
+Organized users inside department-specific Organizational Units.
+
+![Department Users](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1-D321-411B-A408-12522C67B170.jpeg?raw=true)
 
 ---
 
 ### IT Security Group
 
-https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/7561EA21-64A5-404B-B71F-2F3A00480579.jpeg
+Created the IT-Users security group to manage access and permissions more efficiently.
+
+![IT Security Group](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/7561EA21-64A5-404B-B71F-2F3A00480579.jpeg?raw=true)
 
 ---
 
 ### User Group Membership
 
-https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/227409AA-2463-48F2-BFA7-4A6E2E5607AD.jpeg
+Added users to the IT-Users security group and verified their group membership.
+
+![User Group Membership](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/227409AA-2463-48F2-BFA7-4A6E2E5607AD.jpeg?raw=true)
 
 ---
 
 ### DNS Manager
 
-https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/116CE327-F9BC-43D6-BC4C-801A3ADCBA0C.jpeg
+Configured Active Directory-integrated DNS and verified the Forward Lookup Zones for the harith.local domain.
+
+![DNS Manager](https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/116CE327-F9BC-43D6-BC4C-801A3ADCBA0C.jpeg?raw=true)
 
 ## Future Improvements
 
