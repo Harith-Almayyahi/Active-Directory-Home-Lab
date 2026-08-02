@@ -67,7 +67,7 @@ https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1
 
 ### IT Security Group
 
-
+https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/7561EA21-64A5-404B-B71F-2F3A00480579.jpeg
 
 ---
 
