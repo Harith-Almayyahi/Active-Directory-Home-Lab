@@ -51,7 +51,7 @@ The lab was created to practice common IT Help Desk and System Administration ta
 
 ### Active Directory Organizational Units
 
-
+https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/7C23CEC5-9D45-4FFC-9B80-F30C2F8469E1.jpeg
 ---
 
 ### Active Directory Users
