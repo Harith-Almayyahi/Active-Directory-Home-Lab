@@ -75,7 +75,10 @@ https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1
 
 ---
 
-### DNS Managerا
+### DNS Manager
+
+https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/116CE327-F9BC-43D6-BC4C-801A3ADCBA0C.jpeg
+
 ## Future Improvements
 
 - Join Windows 11 to the domain
