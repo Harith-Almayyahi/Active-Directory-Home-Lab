@@ -71,7 +71,9 @@ https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/0559A8A1
 
 ---
 
-### User Group Membershipا
+### User Group Membership
+
+https://github.com/Harith-Almayyahi/Active-Directory-Home-Lab/blob/main/227409AA-2463-48F2-BFA7-4A6E2E5607AD.jpeg
 
 ---
 
